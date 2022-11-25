@@ -53,7 +53,7 @@ li {
 }
 
 #backgroundImage {
-  background-image: url(https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-image: url(https://ucscextension-live-28cd95cf77884d15bb06-01c17c1.divio-media.net/images/web-development-ucsc-silicon.2e16d0ba.fill-2400x858-c100.jpg);
   background-position: center !important;
   background-size: cover;
   color: #282A3A;
@@ -165,7 +165,7 @@ li {
 }
 
 .hire:hover {
-  background-color: #b9b9b6;
+  background-color: #AEBDCA;
   color: white;
 }
 
