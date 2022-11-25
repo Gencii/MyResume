@@ -270,7 +270,7 @@ form {
 .contactCard {
   background: #AEBDCA;
   color: white;
-  height: 500px;
+  height: 450px;
   opacity: 0;
   padding: 20px;
   transition: 0.5s ease-out;
